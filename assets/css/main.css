@@ -4170,6 +4170,6 @@ ul.actions {
 }
 
 form{
-	width: 50%;
-	margin:0 auto;
+	width: 50% !important;
+	margin:0 auto !important;
 }
