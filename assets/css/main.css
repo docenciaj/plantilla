@@ -4221,3 +4221,6 @@ ul.actions {
 	border: 5px dottedyellow;
   }
   
+  input[type=submit]{
+	margin-top:30px;
+  }
