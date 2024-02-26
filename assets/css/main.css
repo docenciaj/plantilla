@@ -4164,14 +4164,3 @@ input, select, textarea {
     width: 50px;
 }
 
-form{
-
-	margin: 0 0 2em 0;
-    width: 50%;
-    margin: 0 auto;
-}
-
-ul.actions {
-    display: flex;
-    justify-content: center;
-}
