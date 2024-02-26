@@ -4176,14 +4176,7 @@ ul.actions {
     JUSTIFY-CONTENT: CENTER;
 }
 
-#formulario {
-	max-width: 300px;
-	margin: 0 auto;
-	padding: 20px;
-	background: #f4f7f8;
-	border-radius: 8px;
-	box: 0 0 10px rgba(0, 0, 0, .1);
-  }
+
   
   .form-group {
 	margin-bottom: 20px;
@@ -4198,7 +4191,7 @@ ul.actions {
 	width: 100%;
 	padding: 10;
 	border: 1px solid #ccc;
-	border-radius 5px;
+	border-radius: 5px;
 	box-sizing: border-box;
   }
   
@@ -4222,11 +4215,11 @@ ul.actions {
 
   #formulario {
   max-width: 300px;
-  margin 0 auto;
+  margin: 0 auto;
   padding: 20px;
   background: #f4f7f8;
   border-radius: 8px;
-  box: 0 0 10px rgba(0, 0, 0, .1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
 }
 
 .form-group {
@@ -4252,7 +4245,7 @@ input:focus {
 }
 
 input:required {
-  border: px dashed rgb(, 98, 137);
+  border: px dashed red;
 }
 
 input:valid {
