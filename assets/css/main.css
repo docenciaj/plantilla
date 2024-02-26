@@ -1990,11 +1990,10 @@ input, select, textarea {
 
 /* Form */
 
-form {
-    width: 50%;
-    /* margin: 0 0 2em 0; */
-    margin: 0 auto;
-} 
+	form {
+		margin: 0 0 2em 0;
+		width: 50;
+	}
 
 	label {
 		display: block;
@@ -2682,6 +2681,7 @@ form {
 
 	section.special, article.special {
 		text-align: center;
+		width: 5;
 	}
 
 	header p {
@@ -4166,8 +4166,12 @@ form {
     width: 50px;
 }
 
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
 ul.actions {
     DISPLAY: FLEX;
     JUSTIFY-CONTENT: CENTER;
 }
-
