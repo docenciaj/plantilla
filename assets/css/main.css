@@ -1989,10 +1989,12 @@ input, select, textarea {
 			}
 
 /* Form */
-/* 
-	form {
-		margin: 0 0 2em 0;
-	} */
+
+form {
+    width: 50%;
+    /* margin: 0 0 2em 0; */
+    margin: 0 auto;
+} 
 
 	label {
 		display: block;
@@ -4169,7 +4171,3 @@ ul.actions {
     JUSTIFY-CONTENT: CENTER;
 }
 
-form{
-	width: 50% !important;
-	margin:0 auto !important;
-}
