@@ -4207,10 +4207,10 @@ ul.actions {
    }
    
    #formulario input:required {
-	border: 3px dashed rgb(252, 98, 137)}
+	border: 3px dashed red;}
    
    #formulario input:valid {
-	 border: 3 dashed rgb(141, 233, 99);
+	 border: 3 dashed green;
    }
    
    #formulario:valid {
